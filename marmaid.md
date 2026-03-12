@@ -78,7 +78,7 @@ graph TD
 
 ## 2.2 语义基本术语
 
-语义基本术语包括引擎（Engine）、提示工程（Prompt Engineering）、模板（Template）、单元（Unit）、节点（Node）、智能体（Agent）、调用（CALL）、数据域（Data Scope）和 参数类型（Parameter Type），以下是对这些概念的详细解释。
+语义基本术语包括引擎（Engine）、提示工程（Prompt Engineering）、模板（Template）、单元（Unit）、节点（Node）、智能体（Agent）、调用（CALL）和数据域（Data Scope），以下是对这些概念的详细解释。
 
 ### 2.2.1 引擎（Engine）
 
