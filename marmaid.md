@@ -76,9 +76,9 @@ graph TD
 
 执行器组件的作用是根据输入参数执行实际的计算或操作任务，并返回执行结果。
 
-## 2.2 语义基本术语
+## 2.2 语义术语
 
-语义基本术语包括引擎（Engine）、提示工程（Prompt Engineering）、模板（Template）、单元（Unit）、节点（Node）、智能体（Agent）、调用（CALL）和数据域（Data Scope），以下是对这些概念的详细解释。
+语义术语包括引擎（Engine）、提示工程（Prompt Engineering）、模板（Template）、单元（Unit）、节点（Node）、智能体（Agent）、调用（CALL）和数据域（Data Scope），以下是对这些概念的详细解释。
 
 ### 2.2.1 引擎（Engine）
 
